@@ -94,7 +94,7 @@ if(!empty($_POST)){
     </div>
   </div>
 </div>
-
+</div>
 <script type="text/javascript">
 $('.dbWidgetDelete').on('click',function(e){
   var answer=confirm('Do you want to do this? It cannot be undone!');
