@@ -31,7 +31,7 @@ if(!empty($_POST)){
 
 ?>
 <!-- Create a div to hold your widget -->
-<div class="col-12">
+
   <div class="row">
 
     <div class="col-6 col-sm-3">
@@ -94,7 +94,7 @@ if(!empty($_POST)){
     </div>
   </div>
 </div>
-</div>
+
 <script type="text/javascript">
 $('.dbWidgetDelete').on('click',function(e){
   var answer=confirm('Do you want to do this? It cannot be undone!');
