@@ -93,7 +93,7 @@ if(!empty($_POST)){
       </div>
     </div>
   </div>
-</div>
+<!-- </div> -->
 
 <script type="text/javascript">
 $('.dbWidgetDelete').on('click',function(e){
